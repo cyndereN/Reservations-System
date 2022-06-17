@@ -6,7 +6,7 @@
 
 * 学校现有几个规格不同的机房，由于使用时经常出现"撞车"现象,现开发一套机房预约系统，解决这一问题。
 
-![pic1](assets/pic1.png)
+![pic1](Asset/pic1.png)
 
 ### 1.2 身份简介
 
@@ -60,4 +60,4 @@
 
 
 
-![pic2](assets/pic2.png)
+![pic2](Asset/pic2.png)
