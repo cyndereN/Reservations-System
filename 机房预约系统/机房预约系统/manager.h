@@ -6,9 +6,10 @@ using namespace std;
 #include <fstream>
 #include "globalFile.h"
 #include <vector>
-
+#include <algorithm>
 #include "student.h"
 #include "teacher.h"
+#include "computerRoom.h"
 
 class Manager :public Identity
 {
@@ -43,6 +44,9 @@ public:
 
 	//教师容器
 	vector<Teacher> vTea;
+
+	//机房容器
+	vector<ComputerRoom> vCom;
 
 	//检测重复 参数:(传入id，传入类型) 返回值：(true 代表有重复，false代表没有重复)
 	bool checkRepeat(int id, int type);

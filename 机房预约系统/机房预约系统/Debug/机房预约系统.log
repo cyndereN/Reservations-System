@@ -1,2 +1,3 @@
-﻿  manager.cpp
+﻿  student.cpp
+D:\Dreamer\GitHub\Reservations-System\机房预约系统\机房预约系统\student.cpp(254,29): warning C4018: “<=”: 有符号/无符号不匹配
   机房预约系统.vcxproj -> D:\Dreamer\GitHub\Reservations-System\机房预约系统\Debug\机房预约系统.exe
